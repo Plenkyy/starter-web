@@ -8,3 +8,5 @@ dkfkadnfnksdfdfn
 ## Purpose
 # deploment
 Sample website with plenty of files for demos
+#Copyright
+Git.Training
